@@ -65,12 +65,13 @@ if __name__ == "__main__":
     client = SRUClient()
     # Fetch 30 records for Ministerie van Onderwijs, Cultuur en Wetenschap
     # Fetch 30 records for Ministerie van Onderwijs, Cultuur en Wetenschap using ot.authority
-    cql = 'ot.authority="Ministerie van Onderwijs, Cultuur en Wetenschap"'
+    from_date = "2023-09-18"
+    cql = f'ot.authority="Ministerie van Onderwijs, Cultuur en Wetenschap"'
     params = {
         "operation": "searchRetrieve",
         "query": cql,
         "maximumRecords": 30,
-        "sortKeys": "dcterms.modified/descending"
+        "sortKeys": "w.datumNotificatie/descending"
     }
     try:
         resp = requests.get(SRU_BASE_URL, params=params, timeout=15)
@@ -94,7 +95,7 @@ if __name__ == "__main__":
                     "kamercommissie": extract('.//w:kamercommissie', {'w': 'http://standaarden.overheid.nl/wetgeving/'})
                 })
         if results:
-            print(f"Fetched {len(results)} records for 'Ministerie van Onderwijs, Cultuur en Wetenschap':\n")
+            print(f"Fetched {len(results)} records for 'Ministerie van Onderwijs, Cultuur en Wetenschap' since {from_date}:\n")
             print("{:<3} {:<40} {:<18} {:<12} {:<20} {:<20} {:<20}".format(
                 "#", "Title", "Identifier", "Date", "Type", "Authority", "Subject"))
             for idx, item in enumerate(results, 1):
@@ -107,7 +108,28 @@ if __name__ == "__main__":
                     (item['authority'] or '')[:18],
                     (item['subject'] or '')[:18]
                 ))
+            # Write RIS file
+            with open("bekendmaking.ris", "w", encoding="utf-8") as risf:
+                for item in results:
+                    risf.write("TY  - GEN\n")  # Generic type, adjust if you want a more specific RIS type
+                    if item['title']:
+                        risf.write(f"TI  - {item['title']}\n")
+                    if item['authority']:
+                        risf.write(f"AU  - {item['authority']}\n")
+                    if item['date']:
+                        risf.write(f"PY  - {item['date'][:4]}\n")
+                        risf.write(f"DA  - {item['date']}\n")
+                    if item['type']:
+                        risf.write(f"T2  - {item['type']}\n")
+                    if item['subject']:
+                        risf.write(f"KW  - {item['subject']}\n")
+                    if item['identifier']:
+                        risf.write(f"ID  - {item['identifier']}\n")
+                    if item['kamercommissie']:
+                        risf.write(f"N1  - Kamercommissie: {item['kamercommissie']}\n")
+                    risf.write("ER  -\n\n")
+            print(f"\nWrote RIS records to bekendmaking.ris (since {from_date})\n")
         else:
-            print("No records found for Ministerie van Onderwijs, Cultuur en Wetenschap.")
+            print(f"No records found for Ministerie van Onderwijs, Cultuur en Wetenschap since {from_date}.")
     except Exception as e:
         print(f"Error fetching or parsing records: {e}")

@@ -1,0 +1,560 @@
+Latest 10 bekendmakingen for Ministerie van Onderwijs, Cultuur en Wetenschap:
+
+[1] Date: None
+Title: None
+Identifier: None
+Abstract: Lees wat de regels zijn als je naar Nederland komt om stage te lopen.
+Link: None
+Authority: Ministerie van Onderwijs, Cultuur en Wetenschap
+
+[2] Date: None
+Title: None
+Identifier: None
+Abstract: Om bepaalde beroepen te mogen uitoefenen, moet u aan beroepseisen voldoen. Bekijk hier waaraan u moet voldoen.
+Link: None
+Authority: Ministerie van Onderwijs, Cultuur en Wetenschap
+
+[3] Date: None
+Title: None
+Identifier: None
+Abstract: Uw kind mag vanaf 4 jaar naar de basisschool. En vanaf 3 jaar mag u uw kind aanmelden op de basisschool.
+Link: None
+Authority: Ministerie van Onderwijs, Cultuur en Wetenschap
+
+[4] Date: None
+Title: None
+Identifier: None
+Abstract: Wilt u uw kind aanmelden bij een middelbare school? Dan zijn er een aantal gegevens van uw kind nodig.
+Link: None
+Authority: Ministerie van Onderwijs, Cultuur en Wetenschap
+
+[5] Date: None
+Title: None
+Identifier: None
+Abstract: Kunst, antiek en archeologische voorwerpen mogen soms het land niet uit. Bekijk de regels voor cultuurgoederen.
+Link: None
+Authority: Ministerie van Onderwijs, Cultuur en Wetenschap
+
+[6] Date: None
+Title: None
+Identifier: None
+Abstract: Met een Koninkrijksbeurs kun je in een ander deel van het Koninkrijk der Nederlanden studeren of stage lopen.
+Link: None
+Authority: Ministerie van Onderwijs, Cultuur en Wetenschap
+
+[7] Date: None
+Title: None
+Identifier: None
+Abstract: Ga in beroep bij je school als je het niet eens bent met een maatregel bij het eindexamen. Bijvoorbeeld als je het examen opnieuw moet doen.
+Link: None
+Authority: Ministerie van Onderwijs, Cultuur en Wetenschap
+
+[8] Date: None
+Title: None
+Identifier: None
+Abstract: Vraag bij NWO een promotiebeurs voor leraren aan als u naast uw baan wilt promoveren aan een universiteit.
+Link: None
+Authority: Ministerie van Onderwijs, Cultuur en Wetenschap
+
+[9] Date: 2018-01-16
+Title: None
+Identifier: None
+Abstract: None
+Link: None
+Authority: Ministerie van Onderwijs, Cultuur en Wetenschap
+
+[10] Date: None
+Title: None
+Identifier: None
+Abstract: Heeft u een onderwijsinstelling of kenniscentrum? En wilt u ervaringscertificaten uitgeven? Vraag dan erkenning als EVC-aanbieder aan.
+Link: None
+Authority: Ministerie van Onderwijs, Cultuur en Wetenschap
+
+Full XML for all 10 records:
+
+--- Record 1 ---
+<sru:record xmlns:sru="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:overheidwetgeving="http://standaarden.overheid.nl/wetgeving/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cd="http://standaarden.overheid.nl/cup/data" xmlns:gzd="http://standaarden.overheid.nl/sru" xmlns:diag="http://docs.oasis-open.org/ns/search-ws/diagnostic" xmlns:facet="http://docs.oasis-open.org/ns/search-ws/facetedResults" xmlns:c="http://standaarden.overheid.nl/collectie/">
+  <sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+  <sru:recordPacking>xml</sru:recordPacking>
+  <sru:recordData>
+    <gzd:gzd>
+      <gzd:originalData>
+        <overheidwetgeving:meta xmlns:search="http://marklogic.com/appservices/search">
+          <overheidwetgeving:owmskern>
+            <dcterms:identifier>c8d12e2253f6987a8098b73d326f3989</dcterms:identifier>
+            <dcterms:title>Stage lopen door buitenlandse studenten in Nederland</dcterms:title>
+            <dcterms:language>nl-NL</dcterms:language>
+            <dcterms:type scheme="overheid:Informatietype">productbeschrijving</dcterms:type>
+            <dcterms:creator scheme="overheid:Ministerie">Ministerie van Onderwijs, Cultuur en Wetenschap</dcterms:creator>
+            <dcterms:modified>2025-02-17</dcterms:modified>
+            <overheid:authority xmlns:overheid="http://standaarden.overheid.nl/owms/terms/" scheme="overheid:Ministerie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap">Ministerie van Onderwijs, Cultuur en Wetenschap</overheid:authority>
+            <dcterms:spatial scheme="overheid:Koninkrijksdeel" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Nederland">Nederland</dcterms:spatial>
+          </overheidwetgeving:owmskern>
+          <overheidwetgeving:owmsmantel>
+            <dcterms:audience scheme="overheid:Doelgroep">particulier</dcterms:audience>
+            <dcterms:hasVersion>1</dcterms:hasVersion>
+            <dcterms:abstract>Lees wat de regels zijn als je naar Nederland komt om stage te lopen.</dcterms:abstract>
+          </overheidwetgeving:owmsmantel>
+          <overheidwetgeving:tpmeta>
+            <c:product-area>samenwerkendecatalogi</c:product-area>
+            <c:content-area>samenwerkendecatalogi</c:content-area>
+            <overheidwetgeving:bronIdentifier>https://www.rijksoverheid.nl/wetten-en-regelingen/productbeschrijvingen/stage-lopen-door-buitenlandse-studenten-in-nederland</overheidwetgeving:bronIdentifier>
+            <overheidwetgeving:organisatietype>ministerie</overheidwetgeving:organisatietype>
+            <overheidwetgeving:spatialtype>Koninkrijksdeel</overheidwetgeving:spatialtype>
+            <overheidwetgeving:productID>beb8b5d4-fa71-4499-b325-8c2f4734225d</overheidwetgeving:productID>
+            <overheidwetgeving:onlineAanvragen>nee</overheidwetgeving:onlineAanvragen>
+            <cd:datumTijdstipWijzigingWork>2025-02-19T21:50:55.124+01:00</cd:datumTijdstipWijzigingWork>
+            <cd:datumTijdstipWijzigingExpression>2025-02-19T21:50:55.124+01:00</cd:datumTijdstipWijzigingExpression>
+          </overheidwetgeving:tpmeta>
+        </overheidwetgeving:meta>
+      </gzd:originalData>
+      <gzd:enrichedData>
+        <gzd:url>https://repository.overheid.nl/frbr/samenwerkendecatalogi/c8d12e2253f6987a8098b73d326f3989/1/metadata/metadata.xml</gzd:url>
+        <gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/samenwerkendecatalogi/c8d12e2253f6987a8098b73d326f3989/1/metadata/metadata.xml</gzd:itemUrl>
+        <gzd:timestamp>2025-02-19T21:50:56.365166+01:00</gzd:timestamp>
+      </gzd:enrichedData>
+    </gzd:gzd>
+  </sru:recordData>
+  <sru:recordPosition>1</sru:recordPosition>
+</sru:record>
+
+
+--- Record 2 ---
+<sru:record xmlns:sru="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:overheidwetgeving="http://standaarden.overheid.nl/wetgeving/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cd="http://standaarden.overheid.nl/cup/data" xmlns:gzd="http://standaarden.overheid.nl/sru" xmlns:diag="http://docs.oasis-open.org/ns/search-ws/diagnostic" xmlns:facet="http://docs.oasis-open.org/ns/search-ws/facetedResults" xmlns:c="http://standaarden.overheid.nl/collectie/">
+  <sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+  <sru:recordPacking>xml</sru:recordPacking>
+  <sru:recordData>
+    <gzd:gzd>
+      <gzd:originalData>
+        <overheidwetgeving:meta xmlns:search="http://marklogic.com/appservices/search">
+          <overheidwetgeving:owmskern>
+            <dcterms:identifier>94e04dbf62b1f5f02458ec7ff1c4bf1b</dcterms:identifier>
+            <dcterms:title>Beroepseisen en diploma's</dcterms:title>
+            <dcterms:language>nl</dcterms:language>
+            <dcterms:type scheme="overheid:Informatietype">productbeschrijving</dcterms:type>
+            <dcterms:creator scheme="overheid:Ministerie">Ministerie van Onderwijs, Cultuur en Wetenschap</dcterms:creator>
+            <dcterms:modified>2024-10-01</dcterms:modified>
+            <overheid:authority xmlns:overheid="http://standaarden.overheid.nl/owms/terms/" scheme="overheid:Ministerie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap">Ministerie van Onderwijs, Cultuur en Wetenschap</overheid:authority>
+            <dcterms:spatial scheme="overheid:Koninkrijksdeel" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Nederland">Nederland</dcterms:spatial>
+          </overheidwetgeving:owmskern>
+          <overheidwetgeving:owmsmantel>
+            <dcterms:audience scheme="overheid:Doelgroep">ondernemer</dcterms:audience>
+            <dcterms:hasVersion>1</dcterms:hasVersion>
+            <dcterms:subject scheme="overheid:TaxonomieBeleidsagenda">Onderwijs en wetenschap</dcterms:subject>
+            <dcterms:abstract>Om bepaalde beroepen te mogen uitoefenen, moet u aan beroepseisen voldoen. Bekijk hier waaraan u moet voldoen.</dcterms:abstract>
+          </overheidwetgeving:owmsmantel>
+          <overheidwetgeving:tpmeta>
+            <c:product-area>samenwerkendecatalogi</c:product-area>
+            <c:content-area>samenwerkendecatalogi</c:content-area>
+            <overheidwetgeving:bronIdentifier>https://ondernemersplein.overheid.nl/beroepseisen-en-diplomas/</overheidwetgeving:bronIdentifier>
+            <overheidwetgeving:organisatietype>ministerie</overheidwetgeving:organisatietype>
+            <overheidwetgeving:spatialtype>Koninkrijksdeel</overheidwetgeving:spatialtype>
+            <overheidwetgeving:productID>e1d7e19c-9809-422f-a270-6443215844c7</overheidwetgeving:productID>
+            <overheidwetgeving:onlineAanvragen>nee</overheidwetgeving:onlineAanvragen>
+            <overheidwetgeving:uniformeProductnaam scheme="overheid:UniformeProductnaam" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/beroepskwalErk">beroepskwalificatie erkenning</overheidwetgeving:uniformeProductnaam>
+            <cd:datumTijdstipWijzigingWork>2025-04-23T21:27:34.114+02:00</cd:datumTijdstipWijzigingWork>
+            <cd:datumTijdstipWijzigingExpression>2025-04-23T21:27:34.114+02:00</cd:datumTijdstipWijzigingExpression>
+          </overheidwetgeving:tpmeta>
+        </overheidwetgeving:meta>
+      </gzd:originalData>
+      <gzd:enrichedData>
+        <gzd:url>https://repository.overheid.nl/frbr/samenwerkendecatalogi/94e04dbf62b1f5f02458ec7ff1c4bf1b/1/metadata/metadata.xml</gzd:url>
+        <gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/samenwerkendecatalogi/94e04dbf62b1f5f02458ec7ff1c4bf1b/1/metadata/metadata.xml</gzd:itemUrl>
+        <gzd:timestamp>2025-04-23T21:27:39.53949+02:00</gzd:timestamp>
+      </gzd:enrichedData>
+    </gzd:gzd>
+  </sru:recordData>
+  <sru:recordPosition>2</sru:recordPosition>
+</sru:record>
+
+
+--- Record 3 ---
+<sru:record xmlns:sru="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:overheidwetgeving="http://standaarden.overheid.nl/wetgeving/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cd="http://standaarden.overheid.nl/cup/data" xmlns:gzd="http://standaarden.overheid.nl/sru" xmlns:diag="http://docs.oasis-open.org/ns/search-ws/diagnostic" xmlns:facet="http://docs.oasis-open.org/ns/search-ws/facetedResults" xmlns:c="http://standaarden.overheid.nl/collectie/">
+  <sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+  <sru:recordPacking>xml</sru:recordPacking>
+  <sru:recordData>
+    <gzd:gzd>
+      <gzd:originalData>
+        <overheidwetgeving:meta xmlns:search="http://marklogic.com/appservices/search">
+          <overheidwetgeving:owmskern>
+            <dcterms:identifier>5f44cff164f0d9b11a1b94afa2a28715</dcterms:identifier>
+            <dcterms:title>Kind aanmelden bij basisschool</dcterms:title>
+            <dcterms:language>nl-NL</dcterms:language>
+            <dcterms:type scheme="overheid:Informatietype">productbeschrijving</dcterms:type>
+            <dcterms:creator scheme="overheid:Ministerie">Ministerie van Onderwijs, Cultuur en Wetenschap</dcterms:creator>
+            <dcterms:modified>2023-10-17</dcterms:modified>
+            <overheid:authority xmlns:overheid="http://standaarden.overheid.nl/owms/terms/" scheme="overheid:Ministerie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap">Ministerie van Onderwijs, Cultuur en Wetenschap</overheid:authority>
+            <dcterms:spatial scheme="overheid:Koninkrijksdeel" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Nederland">Nederland</dcterms:spatial>
+          </overheidwetgeving:owmskern>
+          <overheidwetgeving:owmsmantel>
+            <dcterms:audience scheme="overheid:Doelgroep">particulier</dcterms:audience>
+            <dcterms:hasVersion>1</dcterms:hasVersion>
+            <dcterms:abstract>Uw kind mag vanaf 4 jaar naar de basisschool. En vanaf 3 jaar mag u uw kind aanmelden op de basisschool.</dcterms:abstract>
+          </overheidwetgeving:owmsmantel>
+          <overheidwetgeving:tpmeta>
+            <c:product-area>samenwerkendecatalogi</c:product-area>
+            <c:content-area>samenwerkendecatalogi</c:content-area>
+            <overheidwetgeving:bronIdentifier>https://www.rijksoverheid.nl/wetten-en-regelingen/productbeschrijvingen/kind-aanmelden-bij-basisschool</overheidwetgeving:bronIdentifier>
+            <overheidwetgeving:organisatietype>ministerie</overheidwetgeving:organisatietype>
+            <overheidwetgeving:spatialtype>Koninkrijksdeel</overheidwetgeving:spatialtype>
+            <overheidwetgeving:productID>94c0fb2b-7930-47af-8b20-67d1b481928d</overheidwetgeving:productID>
+            <overheidwetgeving:onlineAanvragen>nee</overheidwetgeving:onlineAanvragen>
+            <cd:datumTijdstipWijzigingWork>2023-10-19T21:23:56.142+02:00</cd:datumTijdstipWijzigingWork>
+            <cd:datumTijdstipWijzigingExpression>2023-10-19T21:23:56.142+02:00</cd:datumTijdstipWijzigingExpression>
+          </overheidwetgeving:tpmeta>
+        </overheidwetgeving:meta>
+      </gzd:originalData>
+      <gzd:enrichedData>
+        <gzd:url>https://repository.overheid.nl/frbr/samenwerkendecatalogi/5f44cff164f0d9b11a1b94afa2a28715/1/metadata/metadata.xml</gzd:url>
+        <gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/samenwerkendecatalogi/5f44cff164f0d9b11a1b94afa2a28715/1/metadata/metadata.xml</gzd:itemUrl>
+        <gzd:timestamp>2023-10-19T21:23:58.530432+02:00</gzd:timestamp>
+      </gzd:enrichedData>
+    </gzd:gzd>
+  </sru:recordData>
+  <sru:recordPosition>3</sru:recordPosition>
+</sru:record>
+
+
+--- Record 4 ---
+<sru:record xmlns:sru="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:overheidwetgeving="http://standaarden.overheid.nl/wetgeving/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cd="http://standaarden.overheid.nl/cup/data" xmlns:gzd="http://standaarden.overheid.nl/sru" xmlns:diag="http://docs.oasis-open.org/ns/search-ws/diagnostic" xmlns:facet="http://docs.oasis-open.org/ns/search-ws/facetedResults" xmlns:c="http://standaarden.overheid.nl/collectie/">
+  <sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+  <sru:recordPacking>xml</sru:recordPacking>
+  <sru:recordData>
+    <gzd:gzd>
+      <gzd:originalData>
+        <overheidwetgeving:meta xmlns:search="http://marklogic.com/appservices/search">
+          <overheidwetgeving:owmskern>
+            <dcterms:identifier>8ab6765e00ea0b40dda4bf4b2a1b13a9</dcterms:identifier>
+            <dcterms:title>Kind aanmelden bij middelbare school</dcterms:title>
+            <dcterms:language>nl-NL</dcterms:language>
+            <dcterms:type scheme="overheid:Informatietype">productbeschrijving</dcterms:type>
+            <dcterms:creator scheme="overheid:Ministerie">Ministerie van Onderwijs, Cultuur en Wetenschap</dcterms:creator>
+            <dcterms:modified>2024-11-04</dcterms:modified>
+            <overheid:authority xmlns:overheid="http://standaarden.overheid.nl/owms/terms/" scheme="overheid:Ministerie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap">Ministerie van Onderwijs, Cultuur en Wetenschap</overheid:authority>
+            <dcterms:spatial scheme="overheid:Koninkrijksdeel" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Nederland">Nederland</dcterms:spatial>
+          </overheidwetgeving:owmskern>
+          <overheidwetgeving:owmsmantel>
+            <dcterms:audience scheme="overheid:Doelgroep">particulier</dcterms:audience>
+            <dcterms:hasVersion>1</dcterms:hasVersion>
+            <dcterms:abstract>Wilt u uw kind aanmelden bij een middelbare school? Dan zijn er een aantal gegevens van uw kind nodig.</dcterms:abstract>
+          </overheidwetgeving:owmsmantel>
+          <overheidwetgeving:tpmeta>
+            <c:product-area>samenwerkendecatalogi</c:product-area>
+            <c:content-area>samenwerkendecatalogi</c:content-area>
+            <overheidwetgeving:bronIdentifier>https://www.rijksoverheid.nl/wetten-en-regelingen/productbeschrijvingen/kind-aanmelden-bij-middelbare-school</overheidwetgeving:bronIdentifier>
+            <overheidwetgeving:organisatietype>ministerie</overheidwetgeving:organisatietype>
+            <overheidwetgeving:spatialtype>Koninkrijksdeel</overheidwetgeving:spatialtype>
+            <overheidwetgeving:productID>3f303bd9-b569-4a5f-91fa-48ce0911034b</overheidwetgeving:productID>
+            <overheidwetgeving:onlineAanvragen>nee</overheidwetgeving:onlineAanvragen>
+            <cd:datumTijdstipWijzigingWork>2024-11-06T21:52:13.429+01:00</cd:datumTijdstipWijzigingWork>
+            <cd:datumTijdstipWijzigingExpression>2024-11-06T21:52:13.429+01:00</cd:datumTijdstipWijzigingExpression>
+          </overheidwetgeving:tpmeta>
+        </overheidwetgeving:meta>
+      </gzd:originalData>
+      <gzd:enrichedData>
+        <gzd:url>https://repository.overheid.nl/frbr/samenwerkendecatalogi/8ab6765e00ea0b40dda4bf4b2a1b13a9/1/metadata/metadata.xml</gzd:url>
+        <gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/samenwerkendecatalogi/8ab6765e00ea0b40dda4bf4b2a1b13a9/1/metadata/metadata.xml</gzd:itemUrl>
+        <gzd:timestamp>2024-11-06T21:52:14.439866+01:00</gzd:timestamp>
+      </gzd:enrichedData>
+    </gzd:gzd>
+  </sru:recordData>
+  <sru:recordPosition>4</sru:recordPosition>
+</sru:record>
+
+
+--- Record 5 ---
+<sru:record xmlns:sru="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:overheidwetgeving="http://standaarden.overheid.nl/wetgeving/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cd="http://standaarden.overheid.nl/cup/data" xmlns:gzd="http://standaarden.overheid.nl/sru" xmlns:diag="http://docs.oasis-open.org/ns/search-ws/diagnostic" xmlns:facet="http://docs.oasis-open.org/ns/search-ws/facetedResults" xmlns:c="http://standaarden.overheid.nl/collectie/">
+  <sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+  <sru:recordPacking>xml</sru:recordPacking>
+  <sru:recordData>
+    <gzd:gzd>
+      <gzd:originalData>
+        <overheidwetgeving:meta xmlns:search="http://marklogic.com/appservices/search">
+          <overheidwetgeving:owmskern>
+            <dcterms:identifier>cb3f856ae4d1ce39e4f198fa40089544</dcterms:identifier>
+            <dcterms:title>Cultuurgoederen invoeren of uitvoeren</dcterms:title>
+            <dcterms:language>nl</dcterms:language>
+            <dcterms:type scheme="overheid:Informatietype">productbeschrijving</dcterms:type>
+            <dcterms:creator scheme="overheid:Ministerie">Ministerie van Onderwijs, Cultuur en Wetenschap</dcterms:creator>
+            <dcterms:modified>2025-04-11</dcterms:modified>
+            <overheid:authority xmlns:overheid="http://standaarden.overheid.nl/owms/terms/" scheme="overheid:Ministerie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap">Ministerie van Onderwijs, Cultuur en Wetenschap</overheid:authority>
+            <dcterms:spatial scheme="overheid:Koninkrijksdeel" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Nederland">Nederland</dcterms:spatial>
+          </overheidwetgeving:owmskern>
+          <overheidwetgeving:owmsmantel>
+            <dcterms:audience scheme="overheid:Doelgroep">ondernemer</dcterms:audience>
+            <dcterms:hasVersion>1</dcterms:hasVersion>
+            <dcterms:subject scheme="overheid:TaxonomieBeleidsagenda">Cultuur en recreatie</dcterms:subject>
+            <dcterms:abstract>Kunst, antiek en archeologische voorwerpen mogen soms het land niet uit. Bekijk de regels voor cultuurgoederen.</dcterms:abstract>
+          </overheidwetgeving:owmsmantel>
+          <overheidwetgeving:tpmeta>
+            <c:product-area>samenwerkendecatalogi</c:product-area>
+            <c:content-area>samenwerkendecatalogi</c:content-area>
+            <overheidwetgeving:bronIdentifier>https://ondernemersplein.overheid.nl/cultuurgoederen-invoeren-of-uitvoeren/</overheidwetgeving:bronIdentifier>
+            <overheidwetgeving:organisatietype>ministerie</overheidwetgeving:organisatietype>
+            <overheidwetgeving:spatialtype>Koninkrijksdeel</overheidwetgeving:spatialtype>
+            <overheidwetgeving:productID>357a03e2-7281-4005-8400-086c11574643</overheidwetgeving:productID>
+            <overheidwetgeving:onlineAanvragen>nee</overheidwetgeving:onlineAanvragen>
+            <overheidwetgeving:uniformeProductnaam scheme="overheid:UniformeProductnaam" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/cultGoedUitvVerg">cultuurgoederen uitvoervergunning</overheidwetgeving:uniformeProductnaam>
+            <cd:datumTijdstipWijzigingWork>2025-04-23T21:27:24.082+02:00</cd:datumTijdstipWijzigingWork>
+            <cd:datumTijdstipWijzigingExpression>2025-04-23T21:27:24.082+02:00</cd:datumTijdstipWijzigingExpression>
+          </overheidwetgeving:tpmeta>
+        </overheidwetgeving:meta>
+      </gzd:originalData>
+      <gzd:enrichedData>
+        <gzd:url>https://repository.overheid.nl/frbr/samenwerkendecatalogi/cb3f856ae4d1ce39e4f198fa40089544/1/metadata/metadata.xml</gzd:url>
+        <gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/samenwerkendecatalogi/cb3f856ae4d1ce39e4f198fa40089544/1/metadata/metadata.xml</gzd:itemUrl>
+        <gzd:timestamp>2025-04-23T21:27:27.106836+02:00</gzd:timestamp>
+      </gzd:enrichedData>
+    </gzd:gzd>
+  </sru:recordData>
+  <sru:recordPosition>5</sru:recordPosition>
+</sru:record>
+
+
+--- Record 6 ---
+<sru:record xmlns:sru="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:overheidwetgeving="http://standaarden.overheid.nl/wetgeving/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cd="http://standaarden.overheid.nl/cup/data" xmlns:gzd="http://standaarden.overheid.nl/sru" xmlns:diag="http://docs.oasis-open.org/ns/search-ws/diagnostic" xmlns:facet="http://docs.oasis-open.org/ns/search-ws/facetedResults" xmlns:c="http://standaarden.overheid.nl/collectie/">
+  <sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+  <sru:recordPacking>xml</sru:recordPacking>
+  <sru:recordData>
+    <gzd:gzd>
+      <gzd:originalData>
+        <overheidwetgeving:meta xmlns:search="http://marklogic.com/appservices/search">
+          <overheidwetgeving:owmskern>
+            <dcterms:identifier>7c909ccbbeb4a32a5440fb37ba782610</dcterms:identifier>
+            <dcterms:title>Koninkrijksbeurs aanvragen</dcterms:title>
+            <dcterms:language>nl-NL</dcterms:language>
+            <dcterms:type scheme="overheid:Informatietype">productbeschrijving</dcterms:type>
+            <dcterms:creator scheme="overheid:Ministerie">Ministerie van Onderwijs, Cultuur en Wetenschap</dcterms:creator>
+            <dcterms:modified>2025-05-08</dcterms:modified>
+            <overheid:authority xmlns:overheid="http://standaarden.overheid.nl/owms/terms/" scheme="overheid:Ministerie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap">Ministerie van Onderwijs, Cultuur en Wetenschap</overheid:authority>
+            <dcterms:spatial scheme="overheid:Koninkrijksdeel" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Nederland">Nederland</dcterms:spatial>
+          </overheidwetgeving:owmskern>
+          <overheidwetgeving:owmsmantel>
+            <dcterms:audience scheme="overheid:Doelgroep">particulier</dcterms:audience>
+            <dcterms:hasVersion>1</dcterms:hasVersion>
+            <dcterms:abstract>Met een Koninkrijksbeurs kun je in een ander deel van het Koninkrijk der Nederlanden studeren of stage lopen.</dcterms:abstract>
+          </overheidwetgeving:owmsmantel>
+          <overheidwetgeving:tpmeta>
+            <c:product-area>samenwerkendecatalogi</c:product-area>
+            <c:content-area>samenwerkendecatalogi</c:content-area>
+            <overheidwetgeving:bronIdentifier>https://www.rijksoverheid.nl/wetten-en-regelingen/productbeschrijvingen/koninkrijksbeurs-aanvragen</overheidwetgeving:bronIdentifier>
+            <overheidwetgeving:organisatietype>ministerie</overheidwetgeving:organisatietype>
+            <overheidwetgeving:spatialtype>Koninkrijksdeel</overheidwetgeving:spatialtype>
+            <overheidwetgeving:productID>2660a707-221f-47ee-8cd7-0de863fd31a0</overheidwetgeving:productID>
+            <overheidwetgeving:onlineAanvragen>nee</overheidwetgeving:onlineAanvragen>
+            <cd:datumTijdstipWijzigingWork>2025-05-10T21:11:37.567+02:00</cd:datumTijdstipWijzigingWork>
+            <cd:datumTijdstipWijzigingExpression>2025-05-10T21:11:37.567+02:00</cd:datumTijdstipWijzigingExpression>
+          </overheidwetgeving:tpmeta>
+        </overheidwetgeving:meta>
+      </gzd:originalData>
+      <gzd:enrichedData>
+        <gzd:url>https://repository.overheid.nl/frbr/samenwerkendecatalogi/7c909ccbbeb4a32a5440fb37ba782610/1/metadata/metadata.xml</gzd:url>
+        <gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/samenwerkendecatalogi/7c909ccbbeb4a32a5440fb37ba782610/1/metadata/metadata.xml</gzd:itemUrl>
+        <gzd:timestamp>2025-05-10T21:11:40.342716+02:00</gzd:timestamp>
+      </gzd:enrichedData>
+    </gzd:gzd>
+  </sru:recordData>
+  <sru:recordPosition>6</sru:recordPosition>
+</sru:record>
+
+
+--- Record 7 ---
+<sru:record xmlns:sru="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:overheidwetgeving="http://standaarden.overheid.nl/wetgeving/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cd="http://standaarden.overheid.nl/cup/data" xmlns:gzd="http://standaarden.overheid.nl/sru" xmlns:diag="http://docs.oasis-open.org/ns/search-ws/diagnostic" xmlns:facet="http://docs.oasis-open.org/ns/search-ws/facetedResults" xmlns:c="http://standaarden.overheid.nl/collectie/">
+  <sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+  <sru:recordPacking>xml</sru:recordPacking>
+  <sru:recordData>
+    <gzd:gzd>
+      <gzd:originalData>
+        <overheidwetgeving:meta xmlns:search="http://marklogic.com/appservices/search">
+          <overheidwetgeving:owmskern>
+            <dcterms:identifier>0db23fa2cdbfe5098380c86af526f308</dcterms:identifier>
+            <dcterms:title>Beroep indienen tegen maatregel eindexamen voortgezet onderwijs</dcterms:title>
+            <dcterms:language>nl-NL</dcterms:language>
+            <dcterms:type scheme="overheid:Informatietype">productbeschrijving</dcterms:type>
+            <dcterms:creator scheme="overheid:Ministerie">Ministerie van Onderwijs, Cultuur en Wetenschap</dcterms:creator>
+            <dcterms:modified>2023-05-26</dcterms:modified>
+            <overheid:authority xmlns:overheid="http://standaarden.overheid.nl/owms/terms/" scheme="overheid:Ministerie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap">Ministerie van Onderwijs, Cultuur en Wetenschap</overheid:authority>
+            <dcterms:spatial scheme="overheid:Koninkrijksdeel" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Nederland">Nederland</dcterms:spatial>
+          </overheidwetgeving:owmskern>
+          <overheidwetgeving:owmsmantel>
+            <dcterms:audience scheme="overheid:Doelgroep">particulier</dcterms:audience>
+            <dcterms:hasVersion>1</dcterms:hasVersion>
+            <dcterms:subject scheme="overheid:TaxonomieBeleidsagenda">Onderwijs en wetenschap</dcterms:subject>
+            <dcterms:abstract>Ga in beroep bij je school als je het niet eens bent met een maatregel bij het eindexamen. Bijvoorbeeld als je het examen opnieuw moet doen.</dcterms:abstract>
+          </overheidwetgeving:owmsmantel>
+          <overheidwetgeving:tpmeta>
+            <c:product-area>samenwerkendecatalogi</c:product-area>
+            <c:content-area>samenwerkendecatalogi</c:content-area>
+            <overheidwetgeving:bronIdentifier>https://www.rijksoverheid.nl/wetten-en-regelingen/productbeschrijvingen/beroep-tegen-maatregel-eindexamen-voortgezet-onderwijs</overheidwetgeving:bronIdentifier>
+            <overheidwetgeving:organisatietype>ministerie</overheidwetgeving:organisatietype>
+            <overheidwetgeving:spatialtype>Koninkrijksdeel</overheidwetgeving:spatialtype>
+            <overheidwetgeving:productID>7f6ea4a9-020b-42e2-9b2e-fb329d0a48bd</overheidwetgeving:productID>
+            <overheidwetgeving:onlineAanvragen>nee</overheidwetgeving:onlineAanvragen>
+            <overheidwetgeving:uniformeProductnaam scheme="overheid:UniformeProductnaam" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/maatregel_eindexamen_beroep">maatregel eindexamen beroep</overheidwetgeving:uniformeProductnaam>
+            <cd:datumTijdstipWijzigingWork>2023-05-28T20:14:07.882+02:00</cd:datumTijdstipWijzigingWork>
+            <cd:datumTijdstipWijzigingExpression>2023-05-28T20:14:07.882+02:00</cd:datumTijdstipWijzigingExpression>
+          </overheidwetgeving:tpmeta>
+        </overheidwetgeving:meta>
+      </gzd:originalData>
+      <gzd:enrichedData>
+        <gzd:url>https://repository.overheid.nl/frbr/samenwerkendecatalogi/0db23fa2cdbfe5098380c86af526f308/1/metadata/metadata.xml</gzd:url>
+        <gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/samenwerkendecatalogi/0db23fa2cdbfe5098380c86af526f308/1/metadata/metadata.xml</gzd:itemUrl>
+        <gzd:timestamp>2023-05-28T20:14:08.523021+02:00</gzd:timestamp>
+      </gzd:enrichedData>
+    </gzd:gzd>
+  </sru:recordData>
+  <sru:recordPosition>7</sru:recordPosition>
+</sru:record>
+
+
+--- Record 8 ---
+<sru:record xmlns:sru="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:overheidwetgeving="http://standaarden.overheid.nl/wetgeving/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cd="http://standaarden.overheid.nl/cup/data" xmlns:gzd="http://standaarden.overheid.nl/sru" xmlns:diag="http://docs.oasis-open.org/ns/search-ws/diagnostic" xmlns:facet="http://docs.oasis-open.org/ns/search-ws/facetedResults" xmlns:c="http://standaarden.overheid.nl/collectie/">
+  <sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+  <sru:recordPacking>xml</sru:recordPacking>
+  <sru:recordData>
+    <gzd:gzd>
+      <gzd:originalData>
+        <overheidwetgeving:meta xmlns:search="http://marklogic.com/appservices/search">
+          <overheidwetgeving:owmskern>
+            <dcterms:identifier>bc8fdaa4e44fff95e190ba13cbeafd2a</dcterms:identifier>
+            <dcterms:title>Promotiebeurs voor leraren aanvragen</dcterms:title>
+            <dcterms:language>nl-NL</dcterms:language>
+            <dcterms:type scheme="overheid:Informatietype">productbeschrijving</dcterms:type>
+            <dcterms:creator scheme="overheid:Ministerie">Ministerie van Onderwijs, Cultuur en Wetenschap</dcterms:creator>
+            <dcterms:modified>2024-09-02</dcterms:modified>
+            <overheid:authority xmlns:overheid="http://standaarden.overheid.nl/owms/terms/" scheme="overheid:Ministerie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap">Ministerie van Onderwijs, Cultuur en Wetenschap</overheid:authority>
+            <dcterms:spatial scheme="overheid:Koninkrijksdeel" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Nederland">Nederland</dcterms:spatial>
+          </overheidwetgeving:owmskern>
+          <overheidwetgeving:owmsmantel>
+            <dcterms:audience scheme="overheid:Doelgroep">particulier</dcterms:audience>
+            <dcterms:hasVersion>1</dcterms:hasVersion>
+            <dcterms:subject scheme="overheid:TaxonomieBeleidsagenda">Onderwijs en wetenschap</dcterms:subject>
+            <dcterms:abstract>Vraag bij NWO een promotiebeurs voor leraren aan als u naast uw baan wilt promoveren aan een universiteit.</dcterms:abstract>
+          </overheidwetgeving:owmsmantel>
+          <overheidwetgeving:tpmeta>
+            <c:product-area>samenwerkendecatalogi</c:product-area>
+            <c:content-area>samenwerkendecatalogi</c:content-area>
+            <overheidwetgeving:bronIdentifier>https://www.rijksoverheid.nl/wetten-en-regelingen/productbeschrijvingen/promotiebeurs-voor-leraren-aanvragen</overheidwetgeving:bronIdentifier>
+            <overheidwetgeving:organisatietype>ministerie</overheidwetgeving:organisatietype>
+            <overheidwetgeving:spatialtype>Koninkrijksdeel</overheidwetgeving:spatialtype>
+            <overheidwetgeving:productID>e9a26de1-bd55-42a4-8ad1-bf0c8993812a</overheidwetgeving:productID>
+            <overheidwetgeving:onlineAanvragen>ja</overheidwetgeving:onlineAanvragen>
+            <overheidwetgeving:aanvraagURL>https://www.nwo.nl/onderzoeksprogrammas/promotiebeurs-voor-leraren</overheidwetgeving:aanvraagURL>
+            <overheidwetgeving:uniformeProductnaam scheme="overheid:UniformeProductnaam" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/leraren_promotiebeurs">leraren promotiebeurs</overheidwetgeving:uniformeProductnaam>
+            <cd:datumTijdstipWijzigingWork>2024-09-04T21:39:48.909+02:00</cd:datumTijdstipWijzigingWork>
+            <cd:datumTijdstipWijzigingExpression>2024-09-04T21:39:48.909+02:00</cd:datumTijdstipWijzigingExpression>
+          </overheidwetgeving:tpmeta>
+        </overheidwetgeving:meta>
+      </gzd:originalData>
+      <gzd:enrichedData>
+        <gzd:url>https://repository.overheid.nl/frbr/samenwerkendecatalogi/bc8fdaa4e44fff95e190ba13cbeafd2a/1/metadata/metadata.xml</gzd:url>
+        <gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/samenwerkendecatalogi/bc8fdaa4e44fff95e190ba13cbeafd2a/1/metadata/metadata.xml</gzd:itemUrl>
+        <gzd:timestamp>2024-09-04T21:39:49.536041+02:00</gzd:timestamp>
+      </gzd:enrichedData>
+    </gzd:gzd>
+  </sru:recordData>
+  <sru:recordPosition>8</sru:recordPosition>
+</sru:record>
+
+
+--- Record 9 ---
+<sru:record xmlns:sru="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:overheidwetgeving="http://standaarden.overheid.nl/wetgeving/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cd="http://standaarden.overheid.nl/cup/data" xmlns:gzd="http://standaarden.overheid.nl/sru" xmlns:diag="http://docs.oasis-open.org/ns/search-ws/diagnostic" xmlns:facet="http://docs.oasis-open.org/ns/search-ws/facetedResults" xmlns:c="http://standaarden.overheid.nl/collectie/">
+  <sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+  <sru:recordPacking>xml</sru:recordPacking>
+  <sru:recordData>
+    <gzd:gzd>
+      <gzd:originalData>
+        <overheidwetgeving:meta xmlns:search="http://marklogic.com/appservices/search">
+          <overheidwetgeving:owmskern>
+            <dcterms:identifier>stcrt-2018-2742</dcterms:identifier>
+            <dcterms:title>Besluit tot vervreemding</dcterms:title>
+            <dcterms:language>nl</dcterms:language>
+            <dcterms:type scheme="OVERHEIDop.Staatscourant">Erfgoedwet | Vervreemdingen</dcterms:type>
+            <dcterms:type scheme="OVERHEIDop.Rubriek">vervreemding erfgoed</dcterms:type>
+            <dcterms:creator scheme="OVERHEID.Ministerie">Ministerie van Onderwijs, Cultuur en Wetenschap</dcterms:creator>
+            <dcterms:modified>2018-01-16</dcterms:modified>
+            <overheid:authority xmlns:overheid="http://standaarden.overheid.nl/owms/terms/" scheme="OVERHEID.Ministerie">Ministerie van Onderwijs, Cultuur en Wetenschap</overheid:authority>
+          </overheidwetgeving:owmskern>
+          <overheidwetgeving:owmsmantel>
+            <dcterms:available>2018-01-16</dcterms:available>
+            <dcterms:date>2018-01-16</dcterms:date>
+            <dcterms:hasVersion resourceIdentifier="https://zoek.officielebekendmakingen.nl/stcrt-2018-2742.html">1</dcterms:hasVersion>
+            <dcterms:subject scheme="OVERHEID.TaxonomieBeleidsagenda">Cultuur en recreatie | Organisatie en beleid</dcterms:subject>
+            <dcterms:publisher scheme="OVERHEID.Ministerie">Ministerie van Binnenlandse Zaken</dcterms:publisher>
+          </overheidwetgeving:owmsmantel>
+          <overheidwetgeving:tpmeta>
+            <c:product-area>officielepublicaties</c:product-area>
+            <c:content-area>officielepublicaties/stcrt/2018</c:content-area>
+            <overheidwetgeving:jaargang>2018</overheidwetgeving:jaargang>
+            <overheidwetgeving:organisatietype scheme="OVERHEID.Organisatietype">ministerie</overheidwetgeving:organisatietype>
+            <overheidwetgeving:publicatienummer>2742</overheidwetgeving:publicatienummer>
+            <overheidwetgeving:publicatienaam>Staatscourant</overheidwetgeving:publicatienaam>
+            <cd:datumTijdstipWijzigingWork>2023-01-09T23:30:23.63751+01:00</cd:datumTijdstipWijzigingWork>
+            <cd:datumTijdstipWijzigingExpression>2023-01-09T23:30:23.63751+01:00</cd:datumTijdstipWijzigingExpression>
+          </overheidwetgeving:tpmeta>
+        </overheidwetgeving:meta>
+      </gzd:originalData>
+      <gzd:enrichedData>
+        <gzd:url>https://repository.overheid.nl/frbr/officielepublicaties/stcrt/2018/stcrt-2018-2742/1/xml/stcrt-2018-2742.xml</gzd:url>
+        <gzd:preferredUrl>https://zoek.officielebekendmakingen.nl/stcrt-2018-2742.html</gzd:preferredUrl>
+        <gzd:itemUrl manifestation="html">https://repository.overheid.nl/frbr/officielepublicaties/stcrt/2018/stcrt-2018-2742/1/html/stcrt-2018-2742.html</gzd:itemUrl>
+        <gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/officielepublicaties/stcrt/2018/stcrt-2018-2742/1/metadata/metadata.xml</gzd:itemUrl>
+        <gzd:itemUrl manifestation="metadataowms">https://repository.overheid.nl/frbr/officielepublicaties/stcrt/2018/stcrt-2018-2742/1/metadataowms/metadata_owms.xml</gzd:itemUrl>
+        <gzd:itemUrl manifestation="odt">https://repository.overheid.nl/frbr/officielepublicaties/stcrt/2018/stcrt-2018-2742/1/odt/stcrt-2018-2742.odt</gzd:itemUrl>
+        <gzd:itemUrl manifestation="pdf">https://repository.overheid.nl/frbr/officielepublicaties/stcrt/2018/stcrt-2018-2742/1/pdf/stcrt-2018-2742.pdf</gzd:itemUrl>
+        <gzd:itemUrl manifestation="xml">https://repository.overheid.nl/frbr/officielepublicaties/stcrt/2018/stcrt-2018-2742/1/xml/stcrt-2018-2742.xml</gzd:itemUrl>
+        <gzd:timestamp>2023-01-09T23:30:24.456294+01:00</gzd:timestamp>
+      </gzd:enrichedData>
+    </gzd:gzd>
+  </sru:recordData>
+  <sru:recordPosition>9</sru:recordPosition>
+</sru:record>
+
+
+--- Record 10 ---
+<sru:record xmlns:sru="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:overheidwetgeving="http://standaarden.overheid.nl/wetgeving/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cd="http://standaarden.overheid.nl/cup/data" xmlns:gzd="http://standaarden.overheid.nl/sru" xmlns:diag="http://docs.oasis-open.org/ns/search-ws/diagnostic" xmlns:facet="http://docs.oasis-open.org/ns/search-ws/facetedResults" xmlns:c="http://standaarden.overheid.nl/collectie/">
+  <sru:recordSchema>http://standaarden.overheid.nl/sru/</sru:recordSchema>
+  <sru:recordPacking>xml</sru:recordPacking>
+  <sru:recordData>
+    <gzd:gzd>
+      <gzd:originalData>
+        <overheidwetgeving:meta xmlns:search="http://marklogic.com/appservices/search">
+          <overheidwetgeving:owmskern>
+            <dcterms:identifier>eef25e38ec6c8e7dc2bdeaf2253a585f</dcterms:identifier>
+            <dcterms:title>Erkenning als EVC-aanbieder aanvragen</dcterms:title>
+            <dcterms:language>nl</dcterms:language>
+            <dcterms:type scheme="overheid:Informatietype">productbeschrijving</dcterms:type>
+            <dcterms:creator scheme="overheid:Ministerie">Ministerie van Onderwijs, Cultuur en Wetenschap</dcterms:creator>
+            <dcterms:modified>2024-11-12</dcterms:modified>
+            <overheid:authority xmlns:overheid="http://standaarden.overheid.nl/owms/terms/" scheme="overheid:Ministerie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap">Ministerie van Onderwijs, Cultuur en Wetenschap</overheid:authority>
+            <dcterms:spatial scheme="overheid:Koninkrijksdeel" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Nederland">Nederland</dcterms:spatial>
+          </overheidwetgeving:owmskern>
+          <overheidwetgeving:owmsmantel>
+            <dcterms:audience scheme="overheid:Doelgroep">ondernemer</dcterms:audience>
+            <dcterms:hasVersion>1</dcterms:hasVersion>
+            <dcterms:subject scheme="overheid:TaxonomieBeleidsagenda">Werk</dcterms:subject>
+            <dcterms:abstract>Heeft u een onderwijsinstelling of kenniscentrum? En wilt u ervaringscertificaten uitgeven? Vraag dan erkenning als EVC-aanbieder aan.</dcterms:abstract>
+          </overheidwetgeving:owmsmantel>
+          <overheidwetgeving:tpmeta>
+            <c:product-area>samenwerkendecatalogi</c:product-area>
+            <c:content-area>samenwerkendecatalogi</c:content-area>
+            <overheidwetgeving:bronIdentifier>https://ondernemersplein.overheid.nl/erkenning-als-evc-aanbieder-aanvragen/</overheidwetgeving:bronIdentifier>
+            <overheidwetgeving:organisatietype>ministerie</overheidwetgeving:organisatietype>
+            <overheidwetgeving:spatialtype>Koninkrijksdeel</overheidwetgeving:spatialtype>
+            <overheidwetgeving:productID>c5f3051e-d849-422f-bd17-fd81a6594d1d</overheidwetgeving:productID>
+            <overheidwetgeving:onlineAanvragen>nee</overheidwetgeving:onlineAanvragen>
+            <overheidwetgeving:uniformeProductnaam scheme="overheid:UniformeProductnaam" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/evcErkenning">evc erkenning</overheidwetgeving:uniformeProductnaam>
+            <cd:datumTijdstipWijzigingWork>2025-04-23T21:27:23.409+02:00</cd:datumTijdstipWijzigingWork>
+            <cd:datumTijdstipWijzigingExpression>2025-04-23T21:27:23.409+02:00</cd:datumTijdstipWijzigingExpression>
+          </overheidwetgeving:tpmeta>
+        </overheidwetgeving:meta>
+      </gzd:originalData>
+      <gzd:enrichedData>
+        <gzd:url>https://repository.overheid.nl/frbr/samenwerkendecatalogi/eef25e38ec6c8e7dc2bdeaf2253a585f/1/metadata/metadata.xml</gzd:url>
+        <gzd:itemUrl manifestation="metadata">https://repository.overheid.nl/frbr/samenwerkendecatalogi/eef25e38ec6c8e7dc2bdeaf2253a585f/1/metadata/metadata.xml</gzd:itemUrl>
+        <gzd:timestamp>2025-04-23T21:27:25.807683+02:00</gzd:timestamp>
+      </gzd:enrichedData>
+    </gzd:gzd>
+  </sru:recordData>
+  <sru:recordPosition>10</sru:recordPosition>
+</sru:record>

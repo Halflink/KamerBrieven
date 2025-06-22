@@ -1,1 +1,12 @@
+# Virtual Environment
 .venv/
+
+# Project specific
+downloaded_pdfs/
+parldocs.log
+parlementaire_documenten.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class

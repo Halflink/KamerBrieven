@@ -1,2 +1,6 @@
 requests
 lxml
+aiohttp
+aiofiles
+PyMuPDF==1.23.5  # For PDF highlighting
+pikepdf==8.7.1  # For PDF repair
